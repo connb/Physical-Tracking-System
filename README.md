@@ -4,7 +4,7 @@ GVSU Computer Science Capstone Project - A physical tracking system used to prov
 ## Project Title: 
 Investment casting traceability through mold-level operations
 
-# Project Description: 
+## Project Description: 
 The student team will be responsible to develop and implement a physical tracking system for investment castings at a mold-level. This system will interface with piece-level operations before and after mold-level functions. The system will scan, track and assist with inventory queuing at dewax operations providing visual status of next-up molds. 
 
 The software will be written in C# and will need to communicate to an Oracle 12c database, potentially a Microsoft SQL database and a few select models of Allen Bradley PLCs. All software tools and required connectivity will be provided. 
